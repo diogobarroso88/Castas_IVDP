@@ -1,16 +1,5 @@
-# castas_ivdp
+# Castas IVDP
 
-A new Flutter project.
+This application was developed to support the creation of structured datasets of grape varieties in the Douro region. It enables the systematic collection of images and data to train artificial intelligence models, with the goal of developing a future platform capable of identifying grape varieties through photos.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Instituto dos Vinhos do Douro e do Porto (IVDP) is the institution responsible for regulating and certifying Douro and Port wines, and its technical specialists are using this application to catalog and annotate images for the dataset.
