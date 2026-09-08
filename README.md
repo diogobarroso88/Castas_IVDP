@@ -5,4 +5,6 @@ This application was developed to support the creation of structured datasets of
 The Instituto dos Vinhos do Douro e do Porto (IVDP) is the institution responsible for regulating and certifying Douro and Port wines, and its technical specialists are using this application to catalog and annotate images for the dataset.
 
 
-<img src="authentication_page.jpeg" alt="Authentication page with language selection" width="400"> <img src="landpage_home.jpeg" alt="Landing page" width="400"> <img src="send_observation.jpeg" alt="Send observation page" width="400">
+<img src="authentication_page.jpeg" alt="Authentication page with language selection" width="300"> <img src="landpage_home.jpeg" alt="Landing page" width="300"> <img src="send_observation.jpeg" alt="Send observation page" width="300">
+
+<img src="profile_page.jpeg" alt="Profile Page" width="300"> <img src="side_menu.jpeg" alt="Side Menu Navigation" width="300">
